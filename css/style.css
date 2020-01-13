@@ -86,9 +86,10 @@ html.demo-full-height .demo-table {
 	width: auto;
 }
 a.navbar-brand {
-    padding: 0;
+	padding: 0;
 	margin-left:10px;
-	height:30px;
+	width:60px;
+	height:60px;
 }
 a.navbar-brand  h1 {
     font-size:28px;
