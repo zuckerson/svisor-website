@@ -1,7 +1,5 @@
 <!--Author: Ing Ulrich Blondin TABOU
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+
 -->
 
 <?php
@@ -34,7 +32,7 @@ if(isset($_POST['mailform']))
     </html>
     ';
 
-  mail ("blondinulrich@gmail.com", "CONTACT - strategyceeac.com", $message, $header); // ici là où il y a blondin... tu mets l'adresse où tu veux recevoir les mails. CONTACT - st.... c'est l'objet de chaque mail pour que tu reconnaisses d'où provient les mails. 
+  mail ("info@schoolvisor.net", "CONTACT - schoolvisor.net", $message, $header); // ici là où il y a blondin... tu mets l'adresse où tu veux recevoir les mails. CONTACT - st.... c'est l'objet de chaque mail pour que tu reconnaisses d'où provient les mails. 
     $msg="Votre message a bien été envoyé !";
   }
   else
@@ -88,7 +86,7 @@ if(isset($_POST['mailform']))
 				<li>
 					<i class="fa fa-envelope" aria-hidden="true"></i>
 					<p class="contact-p1"><a href="mailto:info@schoolvisor.net">info@schoolvisor.net</a></p>
-					<p class="contact-p2"><a href="mailto:blondinulrich@gmail.com">blondinulrich@gmail.com</a></p>
+					
 				</li>
 				<li>
 					<i class="fa fa-address-book" aria-hidden="true"></i>
