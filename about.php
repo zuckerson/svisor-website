@@ -128,7 +128,7 @@
 
     <!-- End About Section -->
 
-    <!-- ======= Facts Section ======= -->
+    <!-- ======= Facts Section ======= 
     <section class="facts section-bg" data-aos="fade-up" data-aos-delay='400'>
       <div class="container">
 
@@ -157,7 +157,7 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section> End Facts Section -->
 
     
     

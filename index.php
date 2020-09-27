@@ -166,10 +166,11 @@
       </div>
     </section><!-- End Services Section -->
 
-<section class="team" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-  <div data-aos="fade-down" data-aos-delay='100'>
-          <center><h2> Nos créateurs</h2><br></center>
-        </div>
+    <!-- 
+    <section class="team" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+      <div data-aos="fade-down" data-aos-delay='100'>
+        <center><h2> Nos créateurs</h2><br></center>
+      </div>
       <div class="container">
 
         <div class="row">
@@ -180,7 +181,7 @@
                 <img src="assets/img/ceo0.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://twitter.com/blondin_tabou"><i class="icofont-twitter"></i></a>
-                  <!--<a href=""><i class="icofont-linkedin"></i></a>-->
+                  <a href=""><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -207,13 +208,12 @@
               </div>
             </div>
           </div>
-          
-
+        </div>
       </div>
-    </div>
     </section>
+    -->
 
-    <!-- ======= Facts Section ======= -->
+    <!-- ======= Facts Section ======= 
     <section class="facts section-bg" data-aos="fade-up" data-aos-delay='400'>
       <div class="container">
 
@@ -242,7 +242,7 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section> End Facts Section -->
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
