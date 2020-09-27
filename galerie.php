@@ -81,10 +81,10 @@
 
           <div class="col-lg-4 col-md-6 filter-app">
             <div class="portfolio-item">
-              <img src="assets/img/bg3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/img5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h3><a href="assets/img/bg3.jpg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor">SchoolVisor</a></h3>
-                <a href="assets/img/bg3.jpg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor"><i class="icofont-plus"></i></a>
+                <h3><a href="assets/img/img5.jpg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor">SchoolVisor</a></h3>
+                <a href="assets/img/img5.jpg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor"><i class="icofont-plus"></i></a>
               </div>
             </div>
           </div>
@@ -101,10 +101,10 @@
 
           <div class="col-lg-4 col-md-6 filter-card">
             <div class="portfolio-item">
-              <img src="assets/img/img7.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/img7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h3><a href="assets/img/img7.jpeg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor">SchoolVisor</a></h3>
-                <a href="assets/img/img7.jpeg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor"><i class="icofont-plus"></i></a>
+                <h3><a href="assets/img/img7.jpg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor">SchoolVisor</a></h3>
+                <a href="assets/img/img7.jpg" data-gall="portfolioGallery" class="venobox" title="SchoolVisor"><i class="icofont-plus"></i></a>
               </div>
             </div>
           </div>
