@@ -17,7 +17,7 @@
         <div class="carousel-container">
           <h2 class="animated fadeInDown" >Anticipez leurs erreurs! </h2>
           <p class="animated fadeInUp" >Vos enfants sont jeunes et insouciants pour la plupart ? Désormais et ceux grâce à moi, sachez que vous pouvez éviter que vos enfants commettent des erreurs avant qu'il ne soit trop tard! n'hésitez pas à m'utiliser car prévenir vaut mieux que guerrir n'est ce pas ?</p>
-          <a href="" class="btn-get-started animated fadeInUp">En savoir plus</a>
+          <!-- <a href="" class="btn-get-started animated fadeInUp">En savoir plus</a> -->
         </div>
       </div>
 
@@ -26,7 +26,7 @@
         <div class="carousel-container">
           <h2 class="animated fadeInDown">Protégez-les!</h2>
           <p class="animated fadeInUp">Vos enfants auront toujours besoin de votre protection. Pour vous aider, Je vous donne tous les moyens nécessaires pour les protéger du monde qui les entourent. Veillez sur vos enfants peu importe où vous êtes, Ce n'est pas génial ça ? </p>
-          <a href="" class="btn-get-started animated fadeInUp">En savoir plus</a>
+          <!-- <a href="" class="btn-get-started animated fadeInUp">En savoir plus</a> -->
         </div>
       </div>
 
@@ -35,7 +35,7 @@
         <div class="carousel-container">
           <h2 class="animated fadeInDown">Prenez le pouvoir!</h2>
           <p class="animated fadeInUp">Il n'y aura plus de différence entre vous et un super héros! Je vous donne le pouvoir et à moindre frais d'ailleurs. Avoir la bonne infos à tout moment pour prendre la meilleure décision sur vos enfants, peut importe où vous êtes, c'est pas beau ça ?</p>
-          <a href="" class="btn-get-started animated fadeInUp">En savoir plus</a>
+          <!-- <a href="" class="btn-get-started animated fadeInUp">En savoir plus</a> -->
         </div>
       </div>
 
