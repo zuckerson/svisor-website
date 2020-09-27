@@ -85,7 +85,6 @@
           <center><h2> Quelques fonctionnalités de SchoolVisor:</h2><br></center>
         </div>
         
-
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay='200'>
             <div class="icon-box icon-box-pink">
@@ -118,7 +117,50 @@
               <p class="description" style="text-align: justify;">Cette fonction permet de connaitre comment l'enfant se comporte au sein du collège/lycée.</p>
             </div>
           </div>
+        </div>
 
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5">
+            <img src="assets/img/features-2.svg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5 order-2 order-md-1">
+            <h3>Suivi global des performances des enfants</h3>
+            <p class="font-italic">
+              Vaut mieux prévenir que guérir.
+            </p>
+            <p>
+              Les différents dossiers constituant le cursus supérieur de votre vous donne un aperçu de l'évolution de vos enfants. Vous pourrez mieux orienter vos enfants.
+            </p>
+          </div>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/features-4.svg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5 order-2 order-md-1">
+            <h3></h3>
+            <p class="font-italic">
+              N'attendez plus la fin de l'année scolaire pour vous organiser.
+            </p>
+            <p>
+              Les comptes rendus de façon hebdomadaire vous permettront d'adapter le programme de vos enfants.
+            </p>
+          </div>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5">
+            <img src="assets/img/features-3.svg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5">
+            <h3>Soyez mobiles et restez informés</h3>
+            <p>Une application mobile (Android & iOS) vous est offerte pour garder un oeil sur vos enfants. C'est comme si vous vous déplaciez avec le dossier de votre enfant; discret et léger.L'ensemble des informations dans vos mains.</p>
+            <ul>
+              <li><i class="icofont-check"></i> Une application à accès reservé uniquement aux parents.</li>
+              <li><i class="icofont-check"></i> Facile d'utilisation et une interface très intuitive.</li>
+            </ul>
+          </div>
         </div>
 
       </div>
@@ -201,10 +243,6 @@
 
       </div>
     </section><!-- End Facts Section -->
-
-    <!-- ======= Features Section ======= -->
-    <!-- End Features Section -->
-
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
